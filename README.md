@@ -1,7 +1,7 @@
 ## Project Management (Open-source and Working Open)
 
 Dr. Bradly Alicea
-[bradly.alicea@outlook.com](mailto:bradly.alicea@outlook.com)
+[bradly.alicea@outlook.com](mailto:bradly.alicea@outlook.com), [balicea@illinois.edu](mailto:balicea@illinois.edu)
 
 Orthogonal Research and Education Lab
 Discord [link](https://discord.gg/ZvxwgXg), #project-management 
