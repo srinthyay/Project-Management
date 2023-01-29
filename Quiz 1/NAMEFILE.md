@@ -1,8 +1,8 @@
 ## Instructions
 
-1) write your name to [NAMEFILE.md](https://github.com/OREL-group/Project-Management/blob/main/Quiz%201/NAMEFILE.md) beneath the dotted line. 
+1) write your name beneath the dotted line. Please add two spaces after your name or a line beneath your name to ensure proper line breaks.  
 
-2) once you are done with all steps in the README file, issue a pull request, fill out the details, and have it accepted.
+2) once you are done with all steps in the README file, issue a pull request, fill out the details, and have it accepted.  
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
