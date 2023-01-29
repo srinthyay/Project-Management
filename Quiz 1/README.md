@@ -21,10 +21,12 @@ __5)__ Prepare a document with multiple stylistic elements: create a new Markdow
 
 __6)__ Now that you have made your contribution, it is time to make a pull request! You will now push your work to the Orthogonal Research and Education Lab organizations repository.
 
+* refresh your fork immediately before issuing your pull request. Click on "refresh fork" at the root of your Project Mnagement repository fork.
+
 * go to the pull request tab, and click on "new pull request".
 
-* check through the "comparing changes" page, and make sure your changed files are consistent with the base. 
+* check through the "comparing changes" page, and make sure your changed files are consistent with the base (should say "able to merge" with a check mark). 
 
-* make a note that described the changes you have made, and click on "issue pull request" as was shown in the lecture slides.
+* make a note that described the changes you have made, and click on "issue pull request" as was shown in the lecture slides. Leave a comment as neccessary.
 
 __7)__ In preparation for your next quiz, please refresh your fork a few weeks after the submission deadline. This should bring it into sync, and you will be able to see how everyone did on their quiz!
