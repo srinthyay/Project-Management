@@ -3,13 +3,13 @@ __To be completed in one week (for Spring 2023, February 9).__
 
 __1)__ before the assignment is issued on February 2, I will invite you to be a collaborator in the Orthogonal Research and Education Lab organization. You will receive an e-mail invite in your illinois.edu account (the same account listed on your Canvas profile). Please check through your account for the invite and accept. If you cannot find it, contact me and I will resend.
 
-__2)__ Create a fork of [OREL-group/project-management](https://github.com/OREL-group/Project-Management). Once you do so, I should be able to see your fork.
-
-__3)__ Navigate to the "Quiz #1" directory and look inside.
-
-__4)__ Contribute to NAMEFILE.md using the GUI interface: write your name to [NAMEFILE.md](https://github.com/OREL-group/Project-Management/blob/main/Quiz%201/NAMEFILE.md) beneath the dotted line.
+__2)__ Contribute to __NAMEFILE.md__ using the GUI interface: write your name to [NAMEFILE.md](https://github.com/OREL-group/Project-Management/blob/main/Quiz%201/NAMEFILE.md) beneath the dotted line.
 
 * make a note describing your changes to the file in the extended description window, then click "commit changes".
+
+__3)__ Create a fork of [OREL-group/project-management](https://github.com/OREL-group/Project-Management). Once you do so, I should be able to see your fork.
+
+__4)__ Navigate to the "Quiz #1" directory and look inside.
 
 __5)__ Prepare a document with multiple stylistic elements: create a new Markdown document in the "Quiz #1" directory. Name this document FIRSTNAME_LASTNAME.md. 
 
@@ -19,12 +19,12 @@ __5)__ Prepare a document with multiple stylistic elements: create a new Markdow
 
 * do only what you are comfortable with and don't let this intimidate you. I look forward to see what you can do!
 
-__6)__ Now that you have made your contributions, it is time to make a pull request! You will now push your work to the Orthogonal Research and Education Lab organizations repository.
+__6)__ Now that you have made your contribution, it is time to make a pull request! You will now push your work to the Orthogonal Research and Education Lab organizations repository.
 
 * go to the pull request tab, and click on "new pull request".
 
 * check through the "comparing changes" page, and make sure your changed files are consistent with the base. 
 
-* make a note that described the changes you have made, and click on "issue pull request".
+* make a note that described the changes you have made, and click on "issue pull request" as was shown in the lecture slides.
 
 __7)__ In preparation for your next quiz, please refresh your fork a few weeks after the submission deadline. This should bring it into sync, and you will be able to see how everyone did on their quiz!
