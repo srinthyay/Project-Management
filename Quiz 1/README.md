@@ -9,8 +9,7 @@ __3)__ Navigate to the "Quiz #1" directory and look inside.
 
 __4)__ Contribute to NAMEFILE.md using the GUI interface: write your name to [NAMEFILE.md](https://github.com/OREL-group/Project-Management/blob/main/Quiz%201/NAMEFILE.md) beneath the dotted line.
 
-* make a note describing your changes to the file in the extended description window, then click "commit 
-changes".
+* make a note describing your changes to the file in the extended description window, then click "commit changes".
 
 __5)__ Prepare a document with multiple stylistic elements: create a new Markdown document in the "Quiz #1" directory. Name this document FIRSTNAME_LASTNAME.md. 
 
@@ -18,7 +17,7 @@ __5)__ Prepare a document with multiple stylistic elements: create a new Markdow
 
 * test your code by "committing changes" and looking at the document. Keep doing this until everything in your document renders properly. If it does not render properly after repreated edits, it may be that your element is not compatible with Github-flavored Markdown. 
 
-* do only what you are comfortable with, don't let this intimidate you, and don't show off.
+* do only what you are comfortable with and don't let this intimidate you. I look forward to see what you can do!
 
 __6)__ Now that you have made your contributions, it is time to make a pull request! You will now push your work to the Orthogonal Research and Education Lab organizations repository.
 
