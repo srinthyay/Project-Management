@@ -3,12 +3,11 @@ To be completed in one week (for Spring 2023, February 9).
 
 1) before the assignment is issued on February 2, I will invite you to be a collaborator in the Orthogonal Research and Education Lab organization. You will receive an e-mail invite in your illinois.edu account (the same account listed on your Canvas profile). Please check through your account for the invite and accept. If you cannot find it, contact me and I will resend.
 
-2) Create a fork of https://github.com/OREL-group/Project-Management: once you do so, I should be able to see your fork.
+2) Create a fork of [OREL-group/project-management](https://github.com/OREL-group/Project-Management). Once you do so, I should be able to see your fork.
 
 3) navigate to the "Quiz #1" directory and look inside.
 
-4) contribute to NAMEFILE.md: add your name to the body of this file using the GUI interface beneath the 
-dotted line. 
+4) contribute to NAMEFILE.md using the GUI interface: write your name to [NAMEFILE.md](https://github.com/OREL-group/Project-Management/blob/main/Quiz%201/NAMEFILE.md) beneath the dotted line.
 
 * make a note describing your changes to the file in the extended description window, then click "commit 
 changes".
