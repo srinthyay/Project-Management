@@ -13,7 +13,7 @@ __4)__ Navigate to the "Quiz #1" directory and look inside.
 
 __5)__ Prepare a document with multiple stylistic elements: create a new Markdown document in the "Quiz #1" directory. Name this document FIRSTNAME_LASTNAME.md. 
 
-* create a document with at least three stylistic elements. Refer back to the lecture from Tuesday, January 31 for these styles. For example, add headings and text elements in Markdown, an image in using HTML tags, and a block element in HTML. You may also use elements in LaTeX, bookdown or other languages consistent with Github-flavored Markdown.
+* create a document with at least three stylistic elements. Refer back to the lecture from Tuesday, January 31 for these styles. For example, add headings and text elements in Markdown, an image with caption using HTML tags, and a table in .csv format. You may also use elements in .csv, LaTeX, Bookdown or other languages consistent with Github-flavored Markdown.
 
 * test your code by "committing changes" and looking at the document. Keep doing this until everything in your document renders properly. If it does not render properly after repreated edits, it may be that your element is not compatible with Github-flavored Markdown. 
 
