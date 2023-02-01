@@ -1,7 +1,7 @@
 ## Quiz 1: Introduction to Github and Version Control
 __To be completed in one week (for Spring 2023, February 9).__ 
 
-__1)__ before the assignment is issued on February 2, I will invite you to be a collaborator in the Orthogonal Research and Education Lab organization. You will receive an e-mail invite in your illinois.edu account (the same account listed on your Canvas profile). Please check through your account for the invite and accept. If you cannot find it, contact me and I will resend.
+__1)__ before the assignment is issued on February 2, I will invite you to be a collaborator in the Orthogonal Research and Education Lab organization. Please [e-mail the instructor](mailto:balicea@illinois.edu) with your Github handle (URL of your account after the ".com/") in the body. Please check your e-mail (Main and Spam folders) for the invite and accept. If you cannot find the invite, contact me and I will resend.
 
 __2)__ Contribute to __NAMEFILE.md__ using the GUI interface: write your name to [NAMEFILE.md](https://github.com/OREL-group/Project-Management/blob/main/Quiz%201/NAMEFILE.md) beneath the dotted line.
 
