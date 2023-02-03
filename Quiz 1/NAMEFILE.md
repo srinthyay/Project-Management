@@ -8,3 +8,4 @@
 
 Bradly Alicea (he/him)    
 Dharra Prashaad (she/her)  
+Joey Hartz (he/him)
