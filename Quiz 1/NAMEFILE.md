@@ -8,5 +8,5 @@
 
 Bradly Alicea (he/him)    
 Dharra Prashaad (she/her)  
-Joey Hartz (he/him)
-Anushka Gami (she/her)
+Joey Hartz (he/him)      
+Anushka Gami (she/her)    
