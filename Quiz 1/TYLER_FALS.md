@@ -1,6 +1,6 @@
-# Big Heading
-## Medium Heading
-### Small Heading
+# Quiz 1
+## Quiz 1.. but smaller
+### Quiz 1.. but even smaller
   
 A normal sentance with *italic* and **bold** text.
   
@@ -20,28 +20,25 @@ Numbered list:
 Not a quote
 > "Quote"
   
-<figure>
+<figure align= "left">
   <img src="https://pbs.twimg.com/media/DqJk8PrU0AI8IzU?format=jpg&name=small" alt="Pikachu">
-  <figcaption>Me when this actually worked^</figcaption>
+  Me when this actually worked^
 </figure>
 
 ![This is another image](https://media.wired.com/photos/5926dc8ecfe0d93c474319dd/master/pass/PikachuTA-EWEATA.jpg)
-
-Table 1
-| Column 1 | Column 2 |
-| - | - |
-| Row 1, Column 1 | Row 1, Column 2 |
-| Row 2, Column 1 | Row 2, Column 2 |
+Me if it ***did not*** work^
   
-Table 2
+Table 1
 | Column 1 | Column 2 | Column 3 |
 | - | - | - |
 | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
 | Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
 | Row 3, Column 1 | Row 3, Column 2 | Row 3, Column 3 |
 
-Is this a [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
 - [x] Task 1
 - [ ] Task 2
 - [ ] All tasks complete :tada:
+
+Is this a [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Link to Quiz 1 directory](https://github.com/OREL-group/Project-Management/tree/main/Quiz%201)
