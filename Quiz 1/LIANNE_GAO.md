@@ -24,6 +24,3 @@ Things I enjoy!
   <li> Yoga </li>
   <li> Cooking </li>
 
-<p align="center">
-  <img src=![iSchool-bldg-sign](https://user-images.githubusercontent.com/124309631/217386161-f18378b3-859a-4ff7-b33f-0389688a85b0.jpg)>
-</p>
