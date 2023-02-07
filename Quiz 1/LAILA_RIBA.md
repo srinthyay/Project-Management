@@ -2,6 +2,9 @@
 
 # I-N-I!
 
+<H1> This is a header! </H1>
+<H3> This is also a header! </H3>
+
 This is a *bulleted list* of my **favorite** foods:
 <ul> 
   <li>pickles</li>
