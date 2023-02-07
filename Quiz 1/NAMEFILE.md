@@ -17,4 +17,5 @@ EJ Demas (he/him)
 Jacqueline Leveille (she/her)  
 Yamini Bukkaraju (she/her)
 Andrew Xie (he/him)
+Zara Khan (she/her)
 
