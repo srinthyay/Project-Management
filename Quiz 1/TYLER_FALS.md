@@ -22,7 +22,7 @@ Not a quote
   
 <figure align= "left">
   <img src="https://pbs.twimg.com/media/DqJk8PrU0AI8IzU?format=jpg&name=small" alt="Pikachu">
-  Me when this actually worked^
+  <figcaption>Me when this actually worked^</figcaption>
 </figure>
 
 ![This is another image](https://media.wired.com/photos/5926dc8ecfe0d93c474319dd/master/pass/PikachuTA-EWEATA.jpg)
