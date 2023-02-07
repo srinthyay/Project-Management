@@ -18,3 +18,10 @@ I also like lists!
 1. IS 340
 2. IS 380
 3. IS 203
+
+<p>Things I enjoy!</p>
+<ul> 
+  <li> Watching movies! </li>
+  <li> Yoga </li>
+  <li> Cooking </li>
+</ul> 
