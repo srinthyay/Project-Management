@@ -2,15 +2,14 @@
 
 # I-N-I!
 
-<H1> This is a header </H1>
-<H2> This is also a header </H2>
-
-<p>This is a bulleted list of my favorite foods: </p>
+This is a *bulleted list* of my **favorite** foods:
 <ul> 
   <li>pickles</li>
   <li>chicken alfredo</li>
   <li>a nice sirloin steak</li>
 </ul>
+
+<img src=https://cdn.vox-cdn.com/thumbor/eaEUIhno87pQloymYPI22pthRNo=/0x0:800x400/920x613/filters:focal(336x136:464x264):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg>
 
 
 
