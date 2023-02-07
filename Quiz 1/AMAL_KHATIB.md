@@ -11,3 +11,4 @@ A word/phase can be made **bold** by using two astericks on either side.
 
 If you use one asterick on either side you will end up with an *italicized* word/phrase.
 
+Now if you add it all together you get "***HELLO***"
