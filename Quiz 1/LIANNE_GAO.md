@@ -24,4 +24,6 @@ Things I enjoy!
   <li> Yoga </li>
   <li> Cooking </li>
 
-<https://cdn.vox-cdn.com/thumbor/J1MOZ8N7XkYDjK49MwPy2IFy9Rc=/27x0:891x576/1400x1400/filters:focal(27x0:891x576):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/49675197/Screen_Shot_2016-05-23_at_5.28.27_PM.0.0.png>
+<p align="center">
+  <img src=[https://cdn.vox-cdn.com/thumbor/eaEUIhno87pQloymYPI22pthRNo=/0x0:800x400/920x613/filters:focal(336x136:464x264):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg](https://ischool.illinois.edu/sites/default/files/styles/hero/public/images/iSchool-bldg-sign.jpg?itok=M4wCC7aZ)>
+</p>
