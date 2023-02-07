@@ -18,4 +18,4 @@ Jacqueline Leveille (she/her)
 Yamini Bukkaraju (she/her)
 Andrew Xie (he/him)
 Zara Khan (she/her)
-
+Dayanna Garcia  (she/her)  
