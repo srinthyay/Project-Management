@@ -24,3 +24,4 @@ My name is Jacqueline Leveille!
 
 #### Here is a picture of some fruits and vegetables.
 <img src="https://github.com/jgl4/photos/blob/afee625b96adf8a1e627e7c62ad3e8d30ce90fb9/fruitsandvegs.jpeg" alt="Fruits and Vegetables">
+  <figcaption>An arrangement of colorful fruits and vegetables</figcaption>
