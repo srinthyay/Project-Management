@@ -9,8 +9,7 @@ This is a *bulleted list* of my **favorite** foods:
   <li>a nice sirloin steak</li>
 </ul>
 
-
-
+![This is an image](https://blog.admissions.illinois.edu/wp-content/uploads/2021/09/WEB_BP_NewAlma_ByLBrianStaufferUIPublicAffairs.jpg)
 
 
 
