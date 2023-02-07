@@ -25,5 +25,5 @@ Things I enjoy!
   <li> Cooking </li>
 
 <p align="center">
-  <img src=[https://cdn.vox-cdn.com/thumbor/eaEUIhno87pQloymYPI22pthRNo=/0x0:800x400/920x613/filters:focal(336x136:464x264):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg](https://ischool.illinois.edu/sites/default/files/styles/hero/public/images/iSchool-bldg-sign.jpg?itok=M4wCC7aZ)>
+  <img src=![iSchool-bldg-sign](https://user-images.githubusercontent.com/124309631/217386161-f18378b3-859a-4ff7-b33f-0389688a85b0.jpg)>
 </p>
