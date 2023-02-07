@@ -18,6 +18,3 @@ I also like lists!
 1. IS 340
 2. IS 380
 3. IS 203
-
-[School of Information Sciences] (https://ischool.illinois.edu/)
-<H22> ^ Here is the link to UIUC's School of Information Sciences website! </H22>
