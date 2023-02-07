@@ -14,6 +14,5 @@ Aditya Madduluri (he/him)
 Suhas Dhanyamraju (he/him)  
 Tyler Fals (he/him)  
 EJ Demas (he/him)   
-Jacqueline Leveille (she/her)
-
+Jacqueline Leveille (she/her)  
 Yamini Bukkaraju (she/her)
