@@ -13,6 +13,5 @@ Now I am going to play with words!
 # Really big header
 ## Slightly smaller
 ### These are the smallest
-** Bolded words **
-_Italics_
+
 
