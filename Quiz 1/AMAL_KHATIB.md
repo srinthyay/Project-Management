@@ -1,4 +1,4 @@
-# Quiz 1
+# **Quiz 1**
 A Document By Amal Khatib
 
 ## Basic Markdown
