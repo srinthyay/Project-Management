@@ -24,4 +24,4 @@ Things I enjoy!
   <li> Yoga </li>
   <li> Cooking </li>
 
-(https://cdn.vox-cdn.com/thumbor/J1MOZ8N7XkYDjK49MwPy2IFy9Rc=/27x0:891x576/1400x1400/filters:focal(27x0:891x576):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/49675197/Screen_Shot_2016-05-23_at_5.28.27_PM.0.0.png)
+<https://cdn.vox-cdn.com/thumbor/J1MOZ8N7XkYDjK49MwPy2IFy9Rc=/27x0:891x576/1400x1400/filters:focal(27x0:891x576):format(png)/cdn.vox-cdn.com/uploads/chorus_image/image/49675197/Screen_Shot_2016-05-23_at_5.28.27_PM.0.0.png>
