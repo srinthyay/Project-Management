@@ -20,4 +20,4 @@ I also like lists!
 3. IS 203
 
 [School of Information Sciences] (https://ischool.illinois.edu/)
-<H3> ^ Here is the link to UIUC's School of Information Sciences website! </H3>
+<H22> ^ Here is the link to UIUC's School of Information Sciences website! </H22>
