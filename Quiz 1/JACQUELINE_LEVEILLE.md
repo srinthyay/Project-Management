@@ -23,4 +23,5 @@ My name is Jacqueline Leveille!
 | Grape   | Lettuce |
 
 #### Here is a picture of some fruits and vegetables.
-![Fruits and Vegetables]("https://github.com/jgl4/photos/blob/afee625b96adf8a1e627e7c62ad3e8d30ce90fb9/fruitsandvegs.jpeg")
+<img src="[path_to_image](https://github.com/jgl4/photos/blob/afee625b96adf8a1e627e7c62ad3e8d30ce90fb9/fruitsandvegs.jpeg)" alt>
+    <em>Fruits and Vegetables</em>
