@@ -20,4 +20,5 @@ Andrew Xie (he/him)
 Zara Khan (she/her)
 Laila Riba (she/her)
 Lianne Gao (she/her)
+Amal Khatib (she/her)
 
