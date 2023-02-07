@@ -7,10 +7,11 @@
 
 <p>This is a bulleted list of my favorite foods: </p>
 <ul> 
-  <li>pickles[^1]</li>
+  <li>pickles</li>[^1]
   <li>chicken alfredo</li>
   <li>a nice sirloin steak</li>
 </ul>
+
 
 [^1]: preferably on a lox sandwich
 
