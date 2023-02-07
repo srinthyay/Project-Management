@@ -8,6 +8,7 @@
 
 <img src="https://github.com/Nalgene-e/workshop-test-repo/blob/5f2b821e9802118496eca2d36853afd60b1f6dcc/Copy-of-2-scaled.jpg"> 
     <em> Photo of National Park /<em>
+    <figcaption> Photo of National Park /<figcaption>
     
  
 | Distance (miles) | "Fare ($)" |
