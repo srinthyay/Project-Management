@@ -19,4 +19,7 @@
   9. Hot Pink
   10. Red
   
-  
+  - [x] Add headers
+- [x] Create list
+- [ ] Add photo
+- [ ] Complete task! :tada:
