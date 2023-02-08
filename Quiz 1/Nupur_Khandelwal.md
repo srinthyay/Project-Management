@@ -1,6 +1,6 @@
 # Hello, my name is Nupur! 
 
-## This is a table of foods I like and colors I like
+### This is a table of foods I like and colors I like
 
 <table>
   <tr>
