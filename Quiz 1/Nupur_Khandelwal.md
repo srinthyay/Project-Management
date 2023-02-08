@@ -19,4 +19,4 @@
 
 ### This is an image of my favorite animal
 
-<img src="[image-url](https://images.pexels.com/photos/50577/hedgehog-animal-baby-cute-50577.jpeg?cs=srgb&dl=pexels-pixabay-50577.jpg&fm=jpg)" alt="image caption">
+<img src="[https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lionel-animals-to-follow-on-instagram-1568319926.jpg?crop=0.922xw:0.738xh;0.0555xw,0.142xh&resize=640:*)" alt="I find hedgehogs adorable">
