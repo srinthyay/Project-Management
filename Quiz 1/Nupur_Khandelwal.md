@@ -20,5 +20,5 @@
 ### This is an image of my favorite animal
 
 <p align="center">
-  <img src=https://cdn.vox-cdn.com/thumbor/eaEUIhno87pQloymYPI22pthRNo=/0x0:800x400/920x613/filters:focal(336x136:464x264):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56187479/DHNkdRfXoAEp2VD.0.jpg>
+  <img src=https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lionel-animals-to-follow-on-instagram-1568319926.jpg?crop=0.922xw:0.738xh;0.0555xw,0.142xh&resize=640:*>
 </p>
