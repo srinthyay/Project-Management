@@ -8,11 +8,11 @@
     <th>Colors</th>
   </tr>
   <tr>
-    <td>Burgers, Pink</td>
-    <td>Coffee, Orange</td>
+    <td>Burgers</td>
+    <td>Coffee</td>
   </tr>
   <tr>
-    <td>Row 2, Column 1</td>
-    <td>Row 2, Column 2</td>
+    <td>Pink</td>
+    <td>Orange2</td>
   </tr>
 </table>
