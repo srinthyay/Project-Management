@@ -1,6 +1,6 @@
 # Hello, my name is Nupur! 
 
-## This is a table of my favorite foods and colors
+### This is a table of my favorite foods and colors
 
 <table>
   <tr>
@@ -16,3 +16,5 @@
     <td>Pink</td>
   </tr>
 </table>
+
+### This is an image of my favorite animal 
