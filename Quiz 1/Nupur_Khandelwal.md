@@ -9,10 +9,10 @@
   </tr>
   <tr>
     <td>Burgers</td>
-    <td>Coffee</td>
+    <td>Pink</td>
   </tr>
   <tr>
-    <td>Pink</td>
+    <td>Coffee</td>
     <td>Orange</td>
   </tr>
 </table>
