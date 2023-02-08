@@ -19,3 +19,6 @@
 
 ---
 ## Bonus: LaTeX
+Here is Einstein's Mass-Energy Equivalence equation in LaTeX:
+
+$$E = mc^2$$
