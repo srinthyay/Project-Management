@@ -9,16 +9,23 @@
   </tr>
   <tr>
     <td>Burgers</td>
-    <td>Pink</td>
+    <td>Coffee</td>
   </tr>
   <tr>
-    <td>Coffee</td>
+    <td>Pink</td>
     <td>Orange</td>
   </tr>
 </table>
 
 ### This is an image of my favorite animal
 
-<p align="center">
-  <img src=https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lionel-animals-to-follow-on-instagram-1568319926.jpg?crop=0.922xw:0.738xh;0.0555xw,0.142xh&resize=640:*>
-</p>
+<img src="[https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lionel-animals-to-follow-on-instagram-1568319926.jpg?crop=0.922xw:0.738xh;0.0555xw,0.142xh&resize=640:*)" alt=" I find hedgehogs adorable">
+
+*I am taking 7 classes this semester*
+- IS 340
+- IS 226
+- IS 455
+- IS 430
+- BADM 320
+- ACCY 200
+- INFO 303
