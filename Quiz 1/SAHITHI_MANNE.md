@@ -2,6 +2,8 @@
 
 *I just switched to Information Sciences this year*
 
+Here is a picture of my favorite food:
+
 <p align="center">
   <img src = https://www.feastingathome.com/wp-content/uploads/2016/04/pad-thai-2.jpg>
 </p>
