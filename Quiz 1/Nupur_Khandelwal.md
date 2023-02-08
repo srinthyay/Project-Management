@@ -13,6 +13,6 @@
   </tr>
   <tr>
     <td>Pink</td>
-    <td>Orange2</td>
+    <td>Orange</td>
   </tr>
 </table>
