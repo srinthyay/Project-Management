@@ -12,7 +12,7 @@
     <td>Orange</td>
   </tr>
   <tr>
-    <td>Row 2, Column 1</td>
-    <td>Row 2, Column 2</td>
+    <td>Cookies</td>
+    <td>Pink</td>
   </tr>
 </table>
