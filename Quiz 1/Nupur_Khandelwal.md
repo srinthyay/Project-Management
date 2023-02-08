@@ -16,3 +16,7 @@
     <td>Orange</td>
   </tr>
 </table>
+
+### This is an image of my favorite animal
+
+<img src="[image-url](https://images.pexels.com/photos/50577/hedgehog-animal-baby-cute-50577.jpeg?cs=srgb&dl=pexels-pixabay-50577.jpg&fm=jpg)" alt="image caption">
