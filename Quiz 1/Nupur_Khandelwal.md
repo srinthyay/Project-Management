@@ -1,5 +1,16 @@
 # Hello, my name is Nupur! 
 
+*I am trying out new stylistic elements*
+
+*I am taking 7 classes this semester*
+* - IS 340
+* - IS 455
+* - IS 430
+* - IS 226
+* - INFO 303
+* - BADM 320
+* - ACCY 200
+
 ### This is a table of my favorite foods and colors
 
 <table>
