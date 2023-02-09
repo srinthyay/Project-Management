@@ -25,7 +25,7 @@
 | 8.3 | 19.65 |
 <details>
     <summary>Click Me!</summary>
-    This is an image of a national park that has a lot of overtourism. 
+    IS340 is awesome!
 </details>
 ### add code
 ```python
