@@ -8,10 +8,11 @@ My name is Jacqueline Leveille!
 - **bold**
 - *italics*
 - ~slashes~
-- <mark>highlights</mark>
+- ==highlight==
+- [Link](https://canvas.illinois.edu/courses/32848)
 - <a href="https://canvas.illinois.edu/courses/32848" target="_blank">Link to Class Canvas Page</a>
 - Cool symbols (&copy;,&reg;,&trade;,&#176;,&uarr;)
-- Greek letters ($/A$, $\Phi$, $\Omega$
+- Greek letters ($\A$, $\Phi$, $\Omega$)
 
 >### I can also add blockquotes with a numbered list.
 > 1. Wake up
