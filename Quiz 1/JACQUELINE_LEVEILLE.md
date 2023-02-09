@@ -36,7 +36,7 @@ Here are some cool stylistic elements I can do:
   <figcaption>An arrangement of colorful fruits and vegetables</figcaption>
 
 ###There is a button to Quiz 1
-[<kbd>Quiz 1</kbd>]([https://github.com/lifeparticle/Markdown-Cheatsheet](https://github.com/OREL-group/Project-Management/tree/main/Quiz%201))
+<br><kbd>Quiz 1(https://github.com/OREL-group/Project-Management/tree/main/Quiz%201)</kbd>
 
 ### You can also add code
 `print('Hello World')`
