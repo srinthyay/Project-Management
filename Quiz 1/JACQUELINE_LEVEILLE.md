@@ -9,9 +9,10 @@ Here are some cool stylistic elements I can do:
 - **bold**
 - *italics*
 - ~slashes~
+- <span style="color:red">color</span>
 - [Link to Class Canvas Page](https://canvas.illinois.edu/courses/32848)
 - Cool symbols (&copy;,&reg;,&trade;,&#176;,&uarr;)
-- Greek letters ($\pi$,$\Phi$, $\Omega$)
+- Greek letters ($\pi$,$\Phi$, $\Omega$)&Alpha;
 
 >### I can also add blockquotes with a numbered list.
 > 1. Wake up
