@@ -45,7 +45,7 @@ Here are some cool stylistic elements I can do:
 print('Hello World')
 ```
 ### Emojis!!
-:smiling_face_with_three_hearts: :star_struck:
+:smiling_face_with_three_hearts: :star_struck: :roll_eyes: :cowboy_hat_face: :partying_face:
   
 ### You can hide things.
 <details>
