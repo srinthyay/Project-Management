@@ -8,4 +8,4 @@ My favorite quote of all time:
 
 Here is a link to my: [Linkedin profile](https://www.linkedin.com/in/subinpradeep/)
 
-![My Favorite Meme Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.golfdigest.com%2Fstory%2Fthe-crying-jordan-meme-makes-it-onto-jeopardy-sadly-isnt-going-anywhere&psig=AOvVaw1diqdcKeoEJu139OJw1e9k&ust=1675988255126000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCSi_eUh_0CFQAAAAAdAAAAABAI)
+![My Favorite Meme Image](https://www.golfdigest.com/content/dam/images/golfdigest/fullset/2017/09/21/59c3ae96d879884a19cb3798_170921-jordan-crying.png)
