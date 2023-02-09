@@ -19,7 +19,7 @@ Here are some cool stylistic elements I can do:
 > 4. Get dressed
 > 5. Eat breakfast
 > 6. Have a great day!
->  * :)
+>    - :)
   
 ### There is also ways to format your text.
 <br><p align="center"> This text is centered </p>
