@@ -1,5 +1,5 @@
 # Quiz 1
-## Quiz 1.. but smaller
+<h2>Quiz 1.. but smaller.. and in html</h2>
 ### Quiz 1.. but even smaller
   
 A normal sentance with *italic* and **bold** text.
