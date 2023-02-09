@@ -33,8 +33,6 @@ Here are some cool stylistic elements I can do:
 | Grape   | Lettuce |
 
 ### Here is a picture of some fruits and vegetables.
-  
-![An arrangement of colorful fruits and vegetables]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/jgl4/photos/blob/afee625b96adf8a1e627e7c62ad3e8d30ce90fb9/fruitsandvegs.jpeg))
 <img src="https://github.com/jgl4/photos/blob/afee625b96adf8a1e627e7c62ad3e8d30ce90fb9/fruitsandvegs.jpeg" alt="Fruits and Vegetables">
   <figcaption>An arrangement of colorful fruits and vegetables</figcaption>
 
