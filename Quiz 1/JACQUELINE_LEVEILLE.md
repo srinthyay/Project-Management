@@ -47,7 +47,6 @@ print('Hello World')
 ### Emojis!!
 :smiling_face_with_three_hearts: :star_struck: :roll_eyes: :cowboy_hat_face: :partying_face:
   
-@github/support hi  
 ### You can hide things.
 <details>
   <summary>Secret</summary>
