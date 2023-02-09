@@ -1,17 +1,18 @@
 # Welcome to my file!
+Navigate to the [End of File](#end)
 
 My name is Jacqueline Leveille!
 <br> Here are some cool stylistic elements I can do:
 
 - <ins>underlines<ins/>
 - **bold**
-- <em>italics</em>
-- <font color="red">colors</font>
-- <font color="blue">more colors</font>
+- *italics*
+- ~slashes~
+- <span style="color:red"> Colors </style>
 - <a href="https://canvas.illinois.edu/courses/32848" target="_blank">Link to Class Canvas Page</a>
 - Cool symbols (&copy;,&reg;,&trade;,&#176;,&uarr;)
 
->### I can also add blockquotes and add a numbered list within it explaining a morning routine.
+>### I can also add blockquotes with a numbered list.
 > 1. Wake up
 > 2. Use restroom
 > 3. Brush teeth
@@ -20,7 +21,7 @@ My name is Jacqueline Leveille!
 > 6. Have a great day!
   
 ### There is also ways to format your text.
-<br><p style="text-align: center;">This text is centered.</p>
+<br><p align="center"> This text is centered </p>
 <br>&nbsp;There is an indent before this line.
 
 ### I can also make tables.
@@ -36,3 +37,15 @@ My name is Jacqueline Leveille!
 
 ### You can also add code
 `print('Hello World')`
+  
+### You can hide things.
+<details>
+  <summary>Secret</summary>
+   Have a good day!
+</details>
+  
+### I made a task list for the assignment.
+- [x] Finish the assignment
+- [ ] Recieve grade
+  
+#### End
