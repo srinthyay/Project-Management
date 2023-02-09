@@ -1,7 +1,7 @@
 # Welcome to my file!
 Navigate to the [End of File](#end)
 
-My name is Jacqueline Leveille!
+My name is Jacqueline Leveille! And there is a line below this.
 ***
 Here are some cool stylistic elements I can do:
 
@@ -9,10 +9,9 @@ Here are some cool stylistic elements I can do:
 - **bold**
 - *italics*
 - ~slashes~
-- <span style="color:red">color</span>
 - [Link to Class Canvas Page](https://canvas.illinois.edu/courses/32848)
 - Cool symbols (&copy;,&reg;,&trade;,&#176;,&uarr;)
-- Greek letters ($\pi$,$\Phi$, $\Omega$)&Alpha;
+- Greek letters (&Alpha;,&Phi;,&Omega;)
 
 >### I can also add blockquotes with a numbered list.
 > 1. Wake up
