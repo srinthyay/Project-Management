@@ -39,7 +39,9 @@ Here are some cool stylistic elements I can do:
 [<kbd>Quiz 1</kbd>](https://github.com/OREL-group/Project-Management/tree/main/Quiz%201)
 
 ### You can also add code
-`print('Hello World')`
+```python
+print('Hello World')
+```
   
 ### You can hide things.
 <details>
