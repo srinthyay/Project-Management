@@ -45,10 +45,6 @@ print('Hello World')
 ```
   
 ### You can hide things.
-&#123;details>
-  &#123;summary>Click to expand!</summary>
-Hidden text
-&#123;/details>
 <details>
   <summary>Secret</summary>
    Have a good day!
