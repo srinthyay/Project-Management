@@ -4,7 +4,7 @@ Navigate to the [End of File](#end)
 My name is Jacqueline Leveille! And there is a line below this.
 ***
 Here are some cool stylistic elements I can do:
-
+<font color="green"> Some green text </font>
 - <ins>underlines<ins/>
 - **bold**
 - *italics*
