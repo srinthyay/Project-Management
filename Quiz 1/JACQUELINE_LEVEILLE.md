@@ -11,7 +11,7 @@ Here are some cool stylistic elements I can do:
 - ~slashes~
 - [Link to Class Canvas Page](https://canvas.illinois.edu/courses/32848)
 - Cool symbols (&copy;,&reg;,&trade;,&#176;,&uarr;)
-- Greek letters ($\A$, $\Phi$, $\Omega$)
+- Greek letters ($\pi$, $\Phi$, $\Omega$)
 
 >### I can also add blockquotes with a numbered list.
 > 1. Wake up
