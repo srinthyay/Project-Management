@@ -7,7 +7,7 @@ Here are some cool stylistic elements I can do:
 - <ins>underlines<ins/>
 - **bold**
 - *italics*
-- ~slashes~
+- ~strikethroughs~
 - [Link to Class Canvas Page](https://canvas.illinois.edu/courses/32848)
 - Cool symbols (&copy;,&reg;,&trade;,&#176;,&uarr;)
 - Greek letters (&Alpha;,&Phi;,&Omega;)
