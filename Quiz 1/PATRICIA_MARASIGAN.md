@@ -3,4 +3,6 @@
 1. I like pugs because they have cute noses  
 2. I like pugs because they have curly tails  
 3. I like pugs because they are funny  
-:heartbeat:  
+:heartbeat:  :yellow_heart:  :star2:  
+ <dt>This is italicized</dt>
+  <dd>This is not</dd>
