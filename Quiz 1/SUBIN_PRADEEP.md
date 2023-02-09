@@ -4,3 +4,5 @@
 
 My favorite quote of all time:
 > “The secret of getting ahead is getting started.” —Mark Twain
+
+Here is a link to my [Linkedin profile](https://www.linkedin.com/in/subinpradeep/)
