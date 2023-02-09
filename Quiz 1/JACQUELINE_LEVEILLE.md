@@ -44,6 +44,8 @@ Here are some cool stylistic elements I can do:
 ```python
 print('Hello World')
 ```
+### Emojis!!
+:smiling_face_with_three_hearts:
   
 ### You can hide things.
 <details>
