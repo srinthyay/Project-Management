@@ -4,5 +4,4 @@
 2. I like pugs because they have curly tails  
 3. I like pugs because they are funny  
 :heartbeat:  :yellow_heart:  :star2:  
- <dt>This is italicized</dt>
-  <dd>This is not</dd>
+<strong>This text is bold like me when I talk about pugs in business settings.</strong>
