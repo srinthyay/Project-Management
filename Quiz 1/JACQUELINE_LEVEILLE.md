@@ -8,9 +8,7 @@ My name is Jacqueline Leveille!
 - **bold**
 - *italics*
 - ~slashes~
-- <span style="color:green;font-weight:700;font-size:20px"> 
-markdown color font styles
-</span>
+- <red>colors</red>
 - <a href="https://canvas.illinois.edu/courses/32848" target="_blank">Link to Class Canvas Page</a>
 - Cool symbols (&copy;,&reg;,&trade;,&#176;,&uarr;)
 
