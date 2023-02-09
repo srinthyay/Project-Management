@@ -10,7 +10,8 @@ My name is Jacqueline Leveille!
 - ~slashes~
 - <span style="color:green;font-weight:700;font-size:20px"> 
 markdown color font styles
-</span>- <a href="https://canvas.illinois.edu/courses/32848" target="_blank">Link to Class Canvas Page</a>
+</span>
+- <a href="https://canvas.illinois.edu/courses/32848" target="_blank">Link to Class Canvas Page</a>
 - Cool symbols (&copy;,&reg;,&trade;,&#176;,&uarr;)
 
 >### I can also add blockquotes with a numbered list.
