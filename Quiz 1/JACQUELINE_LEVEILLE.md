@@ -2,7 +2,8 @@
 Navigate to the [End of File](#end)
 
 My name is Jacqueline Leveille!
-<br> Here are some cool stylistic elements I can do:
+***
+Here are some cool stylistic elements I can do:
 
 - <ins>underlines<ins/>
 - **bold**
