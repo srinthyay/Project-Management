@@ -3,18 +3,15 @@ Navigate to the [End of File](#end)
 
 My name is Jacqueline Leveille!
 <br> Here are some cool stylistic elements I can do:
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
+
 - <ins>underlines<ins/>
 - **bold**
 - *italics*
 - ~slashes~
-- <red>colors</red>
+- <mark>highlights</mark>
 - <a href="https://canvas.illinois.edu/courses/32848" target="_blank">Link to Class Canvas Page</a>
 - Cool symbols (&copy;,&reg;,&trade;,&#176;,&uarr;)
-- Greek letters ($A$, $\Phi$, $\Omega$
+- Greek letters ($/A$, $\Phi$, $\Omega$
 
 >### I can also add blockquotes with a numbered list.
 > 1. Wake up
