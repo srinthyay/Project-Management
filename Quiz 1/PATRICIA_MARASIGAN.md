@@ -9,4 +9,10 @@
 <figure align= "center">
     <img src="https://i.pinimg.com/736x/75/bf/ac/75bfac50af19b5e5657f339656817776--blondes-pug.jpg"/>
     <figcaption>I feel connected to this blonde pug</figcaption>
-</figure>
+</figure>  
+
+# $ pip3 install pyttsx3
+import pyttsx3
+engine = pyttsx3.init()
+engine.say('Sally sells seashells by the seashore.')
+engine.runAndWait()
