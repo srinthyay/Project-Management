@@ -12,13 +12,14 @@ Here are some cool stylistic elements I can do:
 - Cool symbols (&copy;,&reg;,&trade;,&#176;,&uarr;)
 - Greek letters (&Alpha;,&Phi;,&Omega;)
 
->### I can also add blockquotes with a numbered list.
+>### I can also add blockquotes with lists.
 > 1. Wake up
 > 2. Use restroom
 > 3. Brush teeth
 > 4. Get dressed
 > 5. Eat breakfast
 > 6. Have a great day!
+  * :)
   
 ### There is also ways to format your text.
 <br><p align="center"> This text is centered </p>
