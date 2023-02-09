@@ -4,7 +4,6 @@ Navigate to the [End of File](#end)
 My name is Jacqueline Leveille! And there is a line below this.
 ***
 Here are some cool stylistic elements I can do:
-<font color="green"> Some green text </font>
 - <ins>underlines<ins/>
 - **bold**
 - *italics*
@@ -32,9 +31,12 @@ Here are some cool stylistic elements I can do:
 | Orange   |Broccoli |
 | Grape   | Lettuce |
 
-#### Here is a picture of some fruits and vegetables.
+### Here is a picture of some fruits and vegetables.
 <img src="https://github.com/jgl4/photos/blob/afee625b96adf8a1e627e7c62ad3e8d30ce90fb9/fruitsandvegs.jpeg" alt="Fruits and Vegetables">
   <figcaption>An arrangement of colorful fruits and vegetables</figcaption>
+
+###There is a button to Quiz 1
+[<kbd>Quiz 1</kbd>]([https://github.com/lifeparticle/Markdown-Cheatsheet](https://github.com/OREL-group/Project-Management/tree/main/Quiz%201))
 
 ### You can also add code
 `print('Hello World')`
@@ -49,4 +51,4 @@ Here are some cool stylistic elements I can do:
 - [x] Finish the assignment
 - [ ] Recieve grade
   
-#### End
+### End
