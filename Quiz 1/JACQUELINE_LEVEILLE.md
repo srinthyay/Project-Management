@@ -20,7 +20,7 @@ My name is Jacqueline Leveille!
 > 6. Have a great day!
   
 ### There is also ways to format your text.
-<center>This line is centered.</center>
+<br><p style="text-align: center;">This text is centered.</p>
 <br>&nbsp;There is an indent before this line.
 
 ### I can also make tables.
