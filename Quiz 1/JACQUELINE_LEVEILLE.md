@@ -8,9 +8,9 @@ My name is Jacqueline Leveille!
 - **bold**
 - *italics*
 - ~slashes~
-- ==highlight==
-- [Link](https://canvas.illinois.edu/courses/32848)
-- <a href="https://canvas.illinois.edu/courses/32848" target="_blank">Link to Class Canvas Page</a>
+- <span style="font-family:cursive;">cursive</span>
+- <span style="color:red;">colors</span>
+- [Link to Class Canvas Page](https://canvas.illinois.edu/courses/32848)
 - Cool symbols (&copy;,&reg;,&trade;,&#176;,&uarr;)
 - Greek letters ($\A$, $\Phi$, $\Omega$)
 
