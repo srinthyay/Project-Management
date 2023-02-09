@@ -35,8 +35,8 @@ Here are some cool stylistic elements I can do:
 <img src="https://github.com/jgl4/photos/blob/afee625b96adf8a1e627e7c62ad3e8d30ce90fb9/fruitsandvegs.jpeg" alt="Fruits and Vegetables">
   <figcaption>An arrangement of colorful fruits and vegetables</figcaption>
 
-###There is a button to Quiz 1
-<br><kbd>Quiz 1(https://github.com/OREL-group/Project-Management/tree/main/Quiz%201)</kbd>
+### There is a button to Quiz 1
+<br>[<kbd>Quiz 1</kbd>](https://github.com/OREL-group/Project-Management/tree/main/Quiz%201)
 
 ### You can also add code
 `print('Hello World')`
