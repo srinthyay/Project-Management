@@ -9,8 +9,7 @@ _He is was arrogant and selfish, but as the story progresses, he learns to be hu
 
 <img src="https://lumiere-a.akamaihd.net/v1/images/open-uri20150608-27674-17ohmzf_d340a6bd.jpeg"> 
     <figcaption> Lightning McQueen Beasting and Feasting<figcaption>
-
-  
+    
   <b>Tow Mater: </b>
   
   <i>Tow Mater is a rusty and beat-up tow truck who becomes Lightning's best friend.</i>
