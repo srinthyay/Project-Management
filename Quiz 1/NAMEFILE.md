@@ -34,5 +34,6 @@ Goutham Baskaran (he/him)
 Gisella Kontaria (she/her)   
 Roy Khanal (he/him)  
 Ben Tsai (he/him)  
-Joseph Chan (he/him)
-Khushi Jain (she/her)  
+Joseph Chan (he/him)  
+Khushi Jain (she/her)
+
