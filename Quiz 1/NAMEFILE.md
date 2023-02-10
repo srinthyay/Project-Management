@@ -36,4 +36,3 @@ Roy Khanal (he/him)
 Ben Tsai (he/him)  
 Joseph Chan (he/him)  
 Khushi Jain (she/her)
-
