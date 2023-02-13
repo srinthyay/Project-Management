@@ -7,4 +7,3 @@
 * Moisturizer
 * Sunscreen
 
-![This is an image](https://www.pinterest.com/pin/823595850586273439/)
