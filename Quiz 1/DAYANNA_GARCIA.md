@@ -13,7 +13,10 @@
 
 ## Skincare Dupes: High End and Drugstore 
 
-| Product      | Drugstore      | High End      |
+| Product      | High End      | Drugstore      |
 | :---         |     :---:      |          ---: |
-| Serum        | *VERSED* Sunday Morning Oil Serum     | *Glossier* Futuredew   |
+| Serum        | *Glossier* Futuredew    | *Versed* Sunday Morning Oil Serum |
 | Exfoliant     | *Dermalogica* Daily Microfoliant Exfoliator       | *Naturium* BHA Liquid Exfoliant 2%      |
+| Cleanser        | *Tatcha* Rice Wash Cleanser    | *La Roche-Posay* Facial Cleanser  |
+| Moisturizer     | *Kiehl's* Ultra Facial Cream       | *Cetaphil* Daily Hydrating Lotion      |
+
