@@ -1,4 +1,4 @@
-# ** Skincare Routine**
+# **Skincare Routine**
 
 * Cleanser
 * Toner/Exfoliant
