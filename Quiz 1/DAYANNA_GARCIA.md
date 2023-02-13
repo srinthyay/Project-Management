@@ -1,7 +1,7 @@
-# **My Morning Skincare Routine**
+# ** Skincare Routine**
 
 * Cleanser
-* Toner
+* Toner/Exfoliant
 * Serum
 * Eye Gel
 * Moisturizer
@@ -15,5 +15,5 @@
 
 | Product      | Drugstore      | High End      |
 | :---         |     :---:      |          ---: |
-| Serum        | VERSED Sunday Morning Oil Serum     | Glossier Futuredem   |
-| git diff     | git diff       | git diff      |
+| Serum        | VERSED Sunday Morning Oil Serum     | Glossier Futuredew   |
+| Exfoliant     | Dermalogica Daily Microfoliant Exfoliator       | Naturium BHA Liquid Exfoliant 2%      |
