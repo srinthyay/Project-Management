@@ -15,5 +15,5 @@
 
 | Product      | Drugstore      | High End      |
 | :---         |     :---:      |          ---: |
-| Serum        | VERSED Sunday Morning Oil Serum     | Glossier Futuredew   |
-| Exfoliant     | Dermalogica Daily Microfoliant Exfoliator       | Naturium BHA Liquid Exfoliant 2%      |
+| Serum        | *VERSED* Sunday Morning Oil Serum     | *Glossier* Futuredew   |
+| Exfoliant     | *Dermalogica* Daily Microfoliant Exfoliator       | *Naturium* BHA Liquid Exfoliant 2%      |
